@@ -7,7 +7,7 @@
 + 콘텐츠 IT - 조윤선
 
 # 1.  프로젝트 개요 
-# 구현된 기술 
+### 구현된 기술 
 + RigidBody -> 총알과 대포총알의 중력
 + Collider -> 총알에 맞았는지 안맞았는지 충돌 체크  is trigger사용
 + canvas - UI -> 게임오버, 누적점수, 시간등 구현
@@ -18,7 +18,7 @@
 + 각종 위치 조정이나 위치값을 받아 올때 Vector3 사용
 + void OnTriggerEnter(Collider coll),tag -> 충돌 체크시 사용
 
-# 개발 환경
+### 개발 환경
 + Unity
 + C# 
 + Team Viewer
